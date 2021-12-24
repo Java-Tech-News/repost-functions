@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: standalone-bot
+telegram:
+  bot:
+    token:
